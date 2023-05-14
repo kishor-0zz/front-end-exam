@@ -2121,7 +2121,7 @@ ol {
   top: 50%;
   transform: translateY(-50%);
   left: 2%;
-  z-index: 99999999999999;
+  z-index: 3;
 }
 .hero .hero_content .hero_title .search-fild .input-group input {
   border: 1px solid #396C03;

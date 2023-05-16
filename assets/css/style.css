@@ -2155,6 +2155,7 @@ ol {
   top: -13%;
   left: 50%;
   transform: translateX(-36%);
+  z-index: 3;
 }
 @media (max-width: 767px) {
   .hero .hero_image .count {

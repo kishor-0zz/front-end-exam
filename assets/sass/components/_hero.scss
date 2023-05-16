@@ -130,6 +130,7 @@
          top: -13%;
          left: 50%;
          transform: translateX(-36%);
+         z-index: 3;
 
          @include breakpoint(max-md) {
             top: -26%;
